@@ -1,0 +1,78 @@
+html{
+background-color:#000000;
+    
+}
+
+
+
+.titleheader{
+   display: flex;
+   justify-content: center;
+   background-color: #21e2e5;
+   width: 960px;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 20px;
+
+}
+
+#title{
+font-family: "Hind";
+color: #ef0707;
+font-size: 21;
+}
+
+.navcontainer{
+    background-color: #ee13e7;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.navcontainer a{
+    font-size: 30px;
+ padding-left: 20px;
+ padding-right: 20px;
+ text-decoration: none;
+}
+
+.navcontainer a:hover{
+    background-color: #4323f6;
+    border-radius: 20px;
+}
+
+.div1{
+display: flex;
+justify-content: center;
+}
+
+#imagebox{
+    width: 150px;
+}
+
+.artroom{
+    display: flex;
+
+    min-height: 400px;
+    justify-content: center;
+
+}
+
+.artroom div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #21e2e5;
+    width: 300px;
+    height: 300px;
+}
+
+
+.video{
+    font-family: "Hind";
+    color:white;
+    font-size: 21;
+}
